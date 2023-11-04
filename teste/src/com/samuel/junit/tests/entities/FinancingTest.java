@@ -101,9 +101,4 @@ class FinancingTest {
         // assert
         assertEquals(1000.0, quota);
     }
-
-
-
-
-
 }
